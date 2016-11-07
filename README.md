@@ -13,6 +13,16 @@ https://medium.com/@danielkmak/how-i-used-stack-overflow-github-to-get-dream-job
 
 ##Interested Reference Link Android
 
+###Layputs
+
+[Viewpage Indicator](https://github.com/cyrsis/PageIndicatorView)
+
+Pretty good for intro Page
+
+[Fanlayout] (https://github.com/cyrsis/FanLayoutManager)
+
+Kind of crazy for Selection at the bottm and get it to work
+
 [No More Burger Menu for you!!!!](https://github.com/xitu/gold-miner/blob/master/TODO/bye-bye-burger.md)
 
 
